@@ -7,9 +7,13 @@ public class Main {
         // we are going to creating a solar system
         SolarSystem FactorX = new SolarSystem();
 
-        int sun= 1;
-        int planets = 3;
-        int Moons = 2;
+        FactorX.sun =1;
+        FactorX.planets =3;
+        FactorX.Moons =2;
+
+
+
+
 
     }
 }
